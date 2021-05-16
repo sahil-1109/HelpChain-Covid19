@@ -9,7 +9,7 @@ function Header() {
   return (
     <Container>
       <Logo>
-        <NavLink to="/">Helpify</NavLink>
+        <NavLink to="/">HelpChain</NavLink>
       </Logo>
       <Navbar>
         <NavListWrap>
